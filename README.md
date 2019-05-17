@@ -8,6 +8,6 @@ USAGE/RUN commands are at the top of each scripts.
 
 For Server, after make, simply type on terminal : udpserver <port_for_server> <dropProbability>
 
-For Client, after make, simply type on terminal : udpclient <host> <port>
+For Client, after make, simply type on terminal : udpclient <host_ip_server> <port_for_server>
 
 For Client, it will further ask a filename to transfer
